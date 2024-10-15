@@ -1,1 +1,0 @@
-import{c as o,j as t}from"./index-cJqFxIoG.js";const n=s=>{const{description:e,image:m,imageStyle:a,textStyle:c,children:l}=s;return t.jsxs("div",{className:"fw-c-empty",style:a,children:[m,t.jsx("div",{className:"fw-c-empty-text",style:c,children:e}),l||t.jsx(t.Fragment,{})]})},d=o.memo(n),i="_modal_bgluq_1",y={modal:i};export{d as E,y as s};
