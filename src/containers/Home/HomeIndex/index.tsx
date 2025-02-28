@@ -11,6 +11,8 @@ interface MainProps {
 const Main: FC<MainProps> = () => {
     const onClick = (e: any) => {
         console.log(e);
+        const a = 0;
+        console.log(a);
     };
 
     return (
