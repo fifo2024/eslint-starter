@@ -9,7 +9,7 @@ interface MainProps {
 }
 
 const Main: FC<MainProps> = () => {
-    const onClick = (e: any) => {
+    const onClick = (e: React.MouseEvent<HTMLButtonElement>) => {
         console.log(e);
         const a = 0;
         console.log(a);
