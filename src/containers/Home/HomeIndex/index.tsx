@@ -1,8 +1,8 @@
 /**
  * @file Main UI
  */
-import styles from './style.module.less';
 import React, { FC } from 'react';
+import styles from './style.module.less';
 
 interface MainProps {
     [index: string]: string;
